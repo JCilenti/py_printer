@@ -1,0 +1,6 @@
+Default ToDo format
+
+
+Task:
+Due Date:
+Notes:
